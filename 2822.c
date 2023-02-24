@@ -8,4 +8,7 @@ int main(void){
     scanf("%d",&a);
     printf("%d",a);
 
+    printf("hellelele");
+    
+
 }
