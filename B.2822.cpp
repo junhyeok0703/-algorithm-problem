@@ -1,10 +1,11 @@
 #include <iostream>
 
-
+using namespace std;
 int main(void){
-    
-   std::cout << "hello world" << std::endl;
-   std::cout << "hello worl222!!" << std::endl;
-   std::cout << "hello worl222!!" << std::endl;
+   int a = 0; 
+   cout <<"박준혁" <<endl; 
+   cin >> a; 
+   cout << a <<endl; 
+   cout << a+a <<endl;
 
-}
+ }
